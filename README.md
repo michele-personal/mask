@@ -3,3 +3,5 @@
 Michele Thornton
 
 Demonstartion of python techniques to obtain the correct bounding box coordinates of the Daymet North American Files
+
+![Daymet extent with graticules](map_grats.png)
